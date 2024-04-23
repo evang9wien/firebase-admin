@@ -2,3 +2,4 @@ evang9-combo-*.json
 node_modules/*
 mysql/*
 .DS_Store
+databaseUrl.json
